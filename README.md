@@ -125,12 +125,12 @@ int main() {
 
 $ ./sem.o 
 
-![alt text](../img/program1.png)
+![alt text](program1.png)
 
 
 $ ipcs
 
-![alt text](../img/program2.png)
+![alt text](program2.png)
 
 
 
